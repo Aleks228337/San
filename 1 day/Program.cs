@@ -47,9 +47,7 @@ namespace _1day
 
         static void Main(string[] args)
         {
-            Monitor name = new Monitor();
-            name.print();
-            Console.ReadKey();
+           
         }
     }
 }
