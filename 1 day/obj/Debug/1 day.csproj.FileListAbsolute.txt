@@ -1,0 +1,7 @@
+D:\Учёба,инфа\Практика\Лаба1\1day\1 day\bin\Debug\1 day.exe.config
+D:\Учёба,инфа\Практика\Лаба1\1day\1 day\bin\Debug\1 day.exe
+D:\Учёба,инфа\Практика\Лаба1\1day\1 day\bin\Debug\1 day.pdb
+D:\Учёба,инфа\Практика\Лаба1\1day\1 day\obj\Debug\1 day.csprojAssemblyReference.cache
+D:\Учёба,инфа\Практика\Лаба1\1day\1 day\obj\Debug\1 day.csproj.CoreCompileInputs.cache
+D:\Учёба,инфа\Практика\Лаба1\1day\1 day\obj\Debug\1 day.exe
+D:\Учёба,инфа\Практика\Лаба1\1day\1 day\obj\Debug\1 day.pdb
